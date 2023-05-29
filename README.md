@@ -1,5 +1,4 @@
 # Reproducing Hierarchical Agglomerative Learning (HAL)
-Package for performing clustering for high-dimensional data. This packages uses heavily scikit-learn and FFT accelerated t-SNE.
 
 
 # Running The Tests 
