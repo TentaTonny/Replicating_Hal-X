@@ -13,12 +13,7 @@ Activate an [Anaconda](https://conda.io/docs/user-guide/tasks/manage-environment
 source activate YOUR_CONDA_ENVIRONMENT
 conda config --add channels conda-forge
 conda install cython numpy fftw scipy
-pip install hal-x
-```
-# Updating
-For future versions of the package, you can upgrade using:
-```
-pip install hal-x --upgrade
+
 ```
 # Small example
 ```
