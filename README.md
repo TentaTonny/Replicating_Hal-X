@@ -19,4 +19,4 @@ conda install cython numpy fftw scipy
 
 # Benchmarking
 
-benchmarking code is provided in the designated notebook
+benchmarking code is provided in the designated benchmarking_hal-x.ipynb notebook
