@@ -1,7 +1,7 @@
 # Reproducing Hierarchical Agglomerative Learning (HAL)
 
 
-# Running The Tests 
+# Setup
 
 ```
 conda create -n reckless python=3.8
@@ -16,3 +16,7 @@ conda config --add channels conda-forge
 conda install cython numpy fftw scipy
 
 ```
+
+# Benchmarking
+
+benchmarking code is provided in the designated notebook
